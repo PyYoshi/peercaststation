@@ -5,3 +5,16 @@ Thumbs.db
 *.userprefs
 *.suo
 /PeerCastStation/packages
+/PeerCastStation/PecaStationd/bin
+/PeerCastStation/PecaStationdDebug/bin
+/PeerCastStation/PeerCastStation.ASF/bin
+/PeerCastStation/PeerCastStation.Core/bin
+/PeerCastStation/PeerCastStation.FLV/bin
+/PeerCastStation/PeerCastStation.GUI/bin
+/PeerCastStation/PeerCastStation.HTTP/bin
+/PeerCastStation/PeerCastStation.MKV/bin
+/PeerCastStation/PeerCastStation.PCP/bin
+/PeerCastStation/PeerCastStation.UI/bin
+/PeerCastStation/PeerCastStation.UI.HTTP/bin
+/PeerCastStation/PeerCastStation.WPF/bin
+/PeerCastStation/PeerCastStation/bin
